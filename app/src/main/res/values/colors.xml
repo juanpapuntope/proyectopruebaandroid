@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Paleta Corporativa y Moderna (Slate Executive) -->
+    <color name="brand_primary">#0F172A</color>
+    <color name="brand_primary_dark">#020617</color>
+    <color name="brand_accent">#2563EB</color>
+    <color name="brand_accent_light">#3B82F6</color>
+
+    <color name="fondo_pantalla">#F8FAFC</color>
+    <color name="tarjeta_bg">#FFFFFF</color>
+    <color name="tarjeta_stroke">#E2E8F0</color>
+
+    <color name="texto_primario">#0F172A</color>
+    <color name="texto_secundario">#64748B</color>
+
+    <color name="tarjeta_resultado">#0F172A</color>
+    <color name="texto_resultado">#F8FAFC</color>
+    <color name="texto_resultado_resaltado">#38BDF8</color>
+    <color name="texto_resultado_secundario">#94A3B8</color>
+
+    <color name="boton_primario">#0F172A</color>
+    <color name="boton_secundario">#2563EB</color>
+    <color name="boton_outline_stroke">#CBD5E1</color>
+
+    <color name="badge_bg">#E0F2FE</color>
+    <color name="badge_text">#0369A1</color>
+    <color name="rojo_eliminar">#EF4444</color>
+    <color name="rojo_eliminar_bg">#FEE2E2</color>
+</resources>
