@@ -8,7 +8,7 @@
     android:background="@color/fondo_pantalla"
     tools:context=".MainActivity">
 
-    <!-- Top Header Card -->
+    <!-- Top Header Card RAMA SPRINT 1-->
     <com.google.android.material.card.MaterialCardView
         android:id="@+id/cardHeader"
         android:layout_width="match_parent"
